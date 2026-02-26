@@ -1,0 +1,8 @@
+com\vrs\db\TestConnection.class
+com\vrs\gui\CustomerForm.class
+com\vrs\gui\Dashboard.class
+com\vrs\gui\RentalForm.class
+com\vrs\gui\AdminForm.class
+com\vrs\gui\VehicleForm.class
+com\vrs\db\DBConnection.class
+com\mycompany\vehiclerentalsystem\VehicleRentalSystem.class
